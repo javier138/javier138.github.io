@@ -1,0 +1,73 @@
+<html>
+<head>
+  <!-- write your hero's name here in the <title> element  -->
+  <title>Kevin Durant</title>
+  
+  <link rel="stylesheet" href="./style.css" type="text/css">
+</head>
+
+
+<body>
+
+  <div class="container">
+      <div class="jumbotron">
+        <div class="row">
+          <div class="col-xs-12">
+          <!-- Main Heading; Give the person's name; use <h1> -->
+          <h1>Kevin Durant</h1>
+          <!-- Subheading; use <h2>  -->
+          <h2>this is the person i consider my hero</h2>
+          <div>
+             <img class="irc_mi" src="https://www.interbasket.net/wp-content/uploads/kevin-Durant-in-Brooklyn-Nets-jersey-7.jpg" alt="Image result for kevin durant brooklyn nets jersey" width="602" height="433" style="">
+            <!-- place and image here; use an image already on the internet -->
+
+            <!-- place a caption under your picture which explains the picture -->
+            <div> ths is kevin durant with a broooklyn nets jersy he will be joining that team in the up coming season      </div>
+          </div>
+          <div>
+            <!-- heading; use <h3>  -->
+            <h3>about kevin durant</h3>
+            <!-- write a paragraph explaining why your person is so great  -->
+            <p>kevin durant was born with out a dad and was very poor and playing basketball mad him forget all the bad things in his life but he notised that he was very good at basketball so he ejoind that school basket ball team and the went on to calage and then was drafted second in the 2007 NBA draft with the seattle supersonics he was considerd one of the best players in the world for 8 years he did not win a title because of the teame he was in so in 2016 he joind the best team in the NBA the golden stat worriors when he joind the team a lot of people started to hate him because he left his other team people started to call him a snake but he went on to wining two champion ships and two NBA finlas MVP this is why he is my hero because he has gone thrue very tugh times and every time he ends up on top.
+            </p>
+          </div>
+          <div>
+            <!-- Timeline heading; use <h3>  -->
+            <h3>time line</h3>
+            Kevin durant is drafted in to the NBA,  
+              
+             Wins NBA Rookie of the Year Award,
+              
+              Wins two NBA All-Star Game Most Valuable Player,
+              
+              Wins the most valuble player award,
+              
+              Wins two gold olimpic medals,
+              
+              Wins two MBA champion ships and   
+              
+              Wins two NBA finals MVP
+            <!-- create a timeline using an unordered list -->
+
+
+            <blockquote>
+              <!-- use the <p> to display a famous quote from your hero -->
+              <p> "The clothes are not making me, if I like it, that’s all that matters. It’s not about the clothes. It’s about how I am as a person and how confident I am."  </p>
+              <!-- don't forget the quoter's name here -->
+              <footer>Kevin Durant<cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
+            </blockquote>
+            <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+            <h3><a href="https://en.wikipedia.org/wiki/Kevin_Durant">about kevin durant </a></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer><hr>
+      <!--  use the <hr> to create a horizontal line separating the footer section -->
+
+      <!--  using the <p>, take ownership of your page  -->
+      <p>made by javier silva</p>
+    </footer>
+  </div>
+</body>
+</html>
